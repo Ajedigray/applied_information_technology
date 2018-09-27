@@ -5,7 +5,7 @@ Projects From AIT 580
 
 ### Description and Purpose
 1. It requires a virtual machine with postgreSQL installed
-2. It creates a postgreSQL dataset from the `employee_attrition.csv`
+2. It creates a postgreSQL dataset from the `EmployeeAttrition(1).csv`
 3. It answers the following questions
   - Write an SQL query to create table for given dataset. Use the SQL command below to display the characteristics of the table.
   - Count the total number of records in the table.
