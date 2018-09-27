@@ -9,11 +9,11 @@ Access the project by entering the `SQL queries on EmployeeAttrition` directory.
 2. It creates a postgreSQL dataset from the `EmployeeAttrition(1).csv`
 3. It answers the following questions
   - Write an SQL query to create table for given dataset. Use the SQL command below to display the characteristics of the table.
-  - Count the total number of records in the table.
-  - How many unique JOBROLE	are there in the dataset. Order them by	alphabetical order from	A to Z.
-  - Find EMPLOYEENUMBER, EDUCATIONFIELD, JOBROLE for all the	employees whose AGE is greater than 50 and ATTRITION is YES
-  - Count the different MARITALSTATUS when ATTRITION is YES in the dataset. Arrange the count in descending order.
-  - For each JOBROLE	when the ATTRITION is No, find the average MONTHLYINCOME for only those	employees whose DAILYRATE is greater than or equal to 110.
+    - Count the total number of records in the table.
+    - How many unique JOBROLE	are there in the dataset. Order them by	alphabetical order from	A to Z.
+    - Find EMPLOYEENUMBER, EDUCATIONFIELD, JOBROLE for all the	employees whose AGE is greater than 50 and ATTRITION is YES
+    - Count the different MARITALSTATUS when ATTRITION is YES in the dataset. Arrange the count in descending order.
+    - For each JOBROLE	when the ATTRITION is No, find the average MONTHLYINCOME for only those	employees whose DAILYRATE is greater than or equal to 110.
   
  
  ## Project_2.js
