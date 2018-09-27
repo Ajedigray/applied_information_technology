@@ -1,7 +1,7 @@
 # Applied_Information_Technology
 Projects From AIT 580
 
-## Project_1.sql uses postgreSQL
+## Project_1.sql
 Access the project by entering the `SQL queries on EmployeeAttrition` directory.
 
 ### Description and Purpose
