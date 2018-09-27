@@ -5,7 +5,7 @@ Projects From AIT 580
 Access the project by entering the `SQL queries on EmployeeAttrition` directory.
 
 ### Description and Purpose
-1. This project requires a virtual machine with postgreSQL installed
+1. This project requires a virtual machine with `pgAdmin III` installed
 2. It creates a postgreSQL dataset from the `EmployeeAttrition(1).csv`
 3. It answers the following questions
   - Write an SQL query to create table for given dataset. Use the SQL command below to display the characteristics of the table.
@@ -15,4 +15,17 @@ Access the project by entering the `SQL queries on EmployeeAttrition` directory.
   - Count the different MARITALSTATUS when ATTRITION is YES in the dataset. Arrange the count in descending order.
   - For each JOBROLE	when the ATTRITION is No, find the average MONTHLYINCOME for only those	employees whose DAILYRATE is greater than or equal to 110.
   
-
+ 
+ ## Project_2.js
+ Access the project by entering the `NoSQL queries on EmployeeAttrition` directory.
+ 
+ ### Description and Purpose
+ 1. This project requires a virtual machine with `Studio 3T Linux` installed
+ 2. It requires a connection to the `EmployeeAttrition(1).csv`file
+ 3. It answers the following questions
+    - Count the	total	number	of	records	in	the	table.
+    - How	many	unique	JOBROLE	are	there	in	the	dataset?
+    - Find	EMPLOYEENUMBER,	EDUCATIONFIELD,	JOBROLE	for	all	the	employees whose	AGE	is greater than	equal	to 50	and ATTRITION is YES
+    - Count	the	different	MARITALSTATUS	when	ATTRITION	is	YES	in	the	dataset. Arrange	the	count	in descending order
+    - For each JOBROLE, find	the	average	MONTHLYINCOME. Arrange the	output	in	descending	order
+    - For	all	the	employees	having	AGE	less	than	equal	to	18,	sort	the	DEPARTMENT	from	A	to	Z	first	and then EMPLOYEENUMBER	in	ascending	order
