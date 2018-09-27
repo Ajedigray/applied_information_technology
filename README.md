@@ -9,6 +9,7 @@ Access the project by entering the `SQL queries on EmployeeAttrition` directory.
 2. It creates a postgreSQL dataset from the `EmployeeAttrition(1).csv`
 3. It answers the following questions
     - Write an SQL query to create table for given dataset. Use the SQL command below to display the characteristics of the table.
+    
     `SELECT * FROM information_schema.columns WHERE table_name = 'employee_attrition';`
     
     - Count the total number of records in the table.
