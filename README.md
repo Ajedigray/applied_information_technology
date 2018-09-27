@@ -8,7 +8,9 @@ Access the project by entering the `SQL queries on EmployeeAttrition` directory.
 1. This project requires a virtual machine with `pgAdmin III` installed
 2. It creates a postgreSQL dataset from the `EmployeeAttrition(1).csv`
 3. It answers the following questions
-  - Write an SQL query to create table for given dataset. Use the SQL command below to display the characteristics of the table.
+    - Write an SQL query to create table for given dataset. Use the SQL command below to display the characteristics of the table.
+    `SELECT * FROM information_schema.columns WHERE table_name = 'employee_attrition';`
+    
     - Count the total number of records in the table.
     - How many unique JOBROLE	are there in the dataset. Order them by	alphabetical order from	A to Z.
     - Find EMPLOYEENUMBER, EDUCATIONFIELD, JOBROLE for all the	employees whose AGE is greater than 50 and ATTRITION is YES
