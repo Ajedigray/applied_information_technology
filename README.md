@@ -32,3 +32,13 @@ Access the project by entering the `SQL queries on EmployeeAttrition` directory.
     - Count	the	different	MARITALSTATUS	when	ATTRITION	is	YES	in	the	dataset. Arrange	the	count	in descending order
     - For each JOBROLE, find	the	average	MONTHLYINCOME. Arrange the	output	in	descending	order
     - For	all	the	employees	having	AGE	less	than	equal	to	18,	sort	the	DEPARTMENT	from	A	to	Z	first	and then EMPLOYEENUMBER	in	ascending	order
+    
+ ## employeeAttrition.R
+ Access this project by entering the `R` directory. <br/>
+ Review the Project_specificiations.pdf for instructions to interpret this project
+ This project performs queries and analysis on the `EmployeeAttrition.csv` dataset using R
+ 
+ ### Describption and Purpose
+ 1. This project requires either a virtual machine or Linux, Mac, or Windows Operating System
+ 2. It requires R or RStudio
+ 3. It answers the problems outlined in Project_specifications.pdf
