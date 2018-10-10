@@ -35,8 +35,9 @@ Access the project by entering the `SQL queries on EmployeeAttrition` directory.
     
  ## employeeAttrition.R
  Access this project by entering the `R` directory. <br/>
- Review the Project_specificiations.pdf for instructions to interpret this project
- This project performs queries and analysis on the `EmployeeAttrition.csv` dataset using R
+ Review the Project_specificiations.pdf for instructions to interpret this project. <br/>
+ This project performs queries and analysis on the `EmployeeAttrition.csv` dataset using the R
+ programming language.
  
  ### Describption and Purpose
  1. This project requires either a virtual machine or Linux, Mac, or Windows Operating System
